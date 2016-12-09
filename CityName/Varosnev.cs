@@ -28,7 +28,7 @@ namespace CityName
           "haragos", "harka", "hejő", "hód", "holt",
           "jakab", "jász", "jenő", "jeti",
           "kalóz", "kara", "karton", "kecske", "kettős", "király", "kis", "köd", "kovács", "kripta", "kun", "kurbli", "kübek", "külső", "kukutyin",
-          "lászló", "lidérc", "lovag", "lőrinc",
+          "lapos", "lászló", "lidérc", "lovag", "lőrinc",
           "macska", "majom", "medgyes", "medve", "mély", "mező", "mihály", "miklós", "mocsár", "motoros", "mucsa", "mulder", "mutáns",
           "nagy", "naitta", "nindzsa", "nyír",
           "ork",
@@ -67,7 +67,7 @@ namespace CityName
           "ugornya", "úr",
           "ványa", "vár", "várad", "város", "vásár", "vecse", "vég", "vencsellő", "vértes", "völgy",
           "zsolca" };
-
+        
         public string GetVarosnev()
         {
             StringBuilder s = new StringBuilder();
